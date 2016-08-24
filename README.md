@@ -20,4 +20,6 @@ bar=foo.mutate(pattern)
 
 If `pattern` is not specified, an identity transform is performed, meaning that `bar==foo`.
 ##Syntax
+##Example
+<!-- References go here-->
 [1]: https://github.com/adamml/mutate.js/blob/master/lib/mutate.js
